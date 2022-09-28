@@ -33,7 +33,7 @@ Ver publicaciones
 ```
  near call (cuenta hijo o subcuenta) getPublicacion --accountId (cuenta de near testnet)
  ```
-* Ventas
+ Ventas
 ```
 near call (cuenta hijo o subcuenta) setVenta '{"id_venta": "0", " detalle_venta" :  "Operacion exitosa"}' --accountId (cuenta de near testnet)
 ```
